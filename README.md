@@ -2,11 +2,11 @@
 
 <img align="right" alt="OSM Liberty" src="logo.png" />
 
-This is a fork from [osm-liberty](https://github.com/maputnik/osm-liberty). We use this as a base map style for the whole Ehrenamtskarte project. Whenever you see a map in the context of the Ehrenamtskarte, then this style should be used.
+This is a fork from [osm-liberty](https://github.com/maputnik/osm-liberty). We use this as a base map style for the whole entitlementcard project. Whenever you see a map in the context of the entitlementcard, then this style should be used.
 
 A free Mapbox GL basemap style for everyone with complete liberty to use and self host. OSM Liberty is a fork of OSM Bright based on free data sources with a mission for a clear good looking design for the everyday user. It is based on the vector tile schema of [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
 
-**[Preview OSM Liberty with Maputnik](https://maputnik.github.io/editor/?style=https://digitalfabrik.github.io/ehrenamtskarte-maplibre-style/style.json)**
+**[Preview OSM Liberty with Maputnik](https://maputnik.github.io/editor/?style=https://digitalfabrik.github.io/entitlementcard-maplibre-style/style.json)**
 
 ## Usage
 
@@ -23,7 +23,7 @@ They were created using [OpenMapTiles](https://github.com/openmaptiles/openmapti
 - [OpenMapTiles](http://openmaptiles.org/) as vector data source
 - [Natural Earth Tiles](https://klokantech.github.io/naturalearthtiles/) for relief shading
 - [Maki](https://www.mapbox.com/maki-icons/) as icon set
-- Tiles from the Ehrenamtskarte project which shows stores
+- Tiles from the entitlementcard project which shows stores
 
 ## Map Design
 

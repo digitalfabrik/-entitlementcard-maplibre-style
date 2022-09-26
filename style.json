@@ -34,8 +34,8 @@
       "maxZoom": 14
     }
   },
-  "sprite": "https://maps.tuerantuer.org/styles/ehrenamtskarte/sprites",
-  "glyphs": "https://maps.tuerantuer.org/styles/ehrenamtskarte/glyphs/{fontstack}/{range}.pbf",
+  "sprite": "https://maps.tuerantuer.org/styles/entitlementcard/sprites",
+  "glyphs": "https://maps.tuerantuer.org/styles/entitlementcard/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
